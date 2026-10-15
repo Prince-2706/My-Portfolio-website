@@ -24,7 +24,7 @@ export const projects = [
     text: 'A fast, responsive portfolio designed to make projects and technical strengths easy to explore.',
     stack: ['React', 'Vite', 'CSS'],
     tone: 'blue',
-    githubUrl: 'https://github.com/Prince-2706',
+    githubUrl: 'https://my-portfolio-website-gqh7cneov-prince-prajapati.vercel.app/',
   },
 ]
 
